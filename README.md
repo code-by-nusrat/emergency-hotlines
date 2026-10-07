@@ -124,11 +124,11 @@ The project will open in your browser.
 
 ## 🔗 Live Project
 
-🚀 **[Visit Emergency Hotlines](https://code-by-nusrat.github.io/emergency-hotlines/)**
+https://code-by-nusrat.github.io/emergency-hotlines/
 
 ## 💻 GitHub Repository
 
-📂 **[View Source Code](https://github.com/code-by-nusrat/emergency-hotlines)**
+https://github.com/code-by-nusrat/emergency-hotlines
 
 ## 🎯 Future Improvements
 
